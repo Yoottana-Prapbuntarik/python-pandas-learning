@@ -1,8 +1,7 @@
 > # Python Pandas Learning
 
 
-![image](https://miro.medium.com/max/3288/1*QWL8FlOH8HACzfcMW6K8QA.png)&nbsp;&nbsp;&nbsp;&nbsp;text
-
+![image](https://miro.medium.com/max/3288/1*QWL8FlOH8HACzfcMW6K8QA.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 > ## วิธีการตั้งค่าโปรเจ็ค
       
