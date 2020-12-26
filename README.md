@@ -16,7 +16,7 @@
       -  ทำการโหลดโปรเจ็ค  [Download](https://github.com/nap3831/python-pandas-learning/archive/master.zip)    หรือ Clone repo นี้
       
       
-       -  ทำการ activage virtualevironment
+      -  ทำการ activage virtualevironment
 
 
       -  ทำการติดตั้ง pip install -r requirement.txt
@@ -24,5 +24,5 @@
 
       -  สร้างไฟล์ของคุณ
   
-  
- 
+
+         [link text itself]: http://www.reddit.com
