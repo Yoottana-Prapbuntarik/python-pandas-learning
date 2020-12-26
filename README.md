@@ -5,3 +5,5 @@
   - ทำการ activage virtualevironment
   - ทำการติดตั้ง pip install -r requirement.txt
   - สร้างไฟล์ของคุณ
+  
+  <span style="color:blue">some *blue* text</span>.
