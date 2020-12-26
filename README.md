@@ -13,7 +13,7 @@
       -  ทำการสร้าง virtualevironment ของ โปรเจ็ค
 
     
-      -  ทำการโหลดโปรเจ็ค  [Download](https://github.com/nap3831/python-pandas-learning/archive/master.zip)    หรือ Clone repo นี้
+      -  ทำการโหลดโปรเจ็ค  https://github.com/nap3831/python-pandas-learning/archive/master.zip   หรือ Clone repo นี้
       
       
       -  ทำการ activage virtualevironment
@@ -24,5 +24,3 @@
 
       -  สร้างไฟล์ของคุณ
   
-
-         [link text itself]: http://www.reddit.com
