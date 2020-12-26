@@ -13,7 +13,8 @@
       -  ทำการสร้าง virtualevironment ของ โปรเจ็ค
 
     
-      -  ทำการโหลดโปรเจ็ค  ![Duck Duck Go](https://github.com/nap3831/python-pandas-learning/archive/master.zip](https://github.com/nap3831/python-pandas-learning/archive/master.zip)    หรือ Clone repo นี้
+      -  ทำการโหลดโปรเจ็ค  [Duck Duck Go](https://github.com/nap3831/python-pandas-learning/archive/master.zip](https://github.com/nap3831/python-pandas-learning/archive/master.zip)    หรือ Clone repo นี้
+      
       
        -  ทำการ activage virtualevironment
 
