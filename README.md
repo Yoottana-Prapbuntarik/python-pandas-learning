@@ -12,8 +12,11 @@
 
       -  ทำการสร้าง virtualevironment ของ โปรเจ็ค
 
-
-      -  ทำการ activage virtualevironment
+    
+      -  ทำการโหลดโปรเจ็ค  https://github.com/nap3831/python-pandas-learning/archive/master.zip    หรือ Clone repo นี้
+      
+      
+       -  ทำการ activage virtualevironment
 
 
       -  ทำการติดตั้ง pip install -r requirement.txt
